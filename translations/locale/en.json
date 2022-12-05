@@ -1,0 +1,19 @@
+{
+  "add_availability_button": "Add availability",
+  "confirm_button": "Confirm",
+  "confirmation_message": "You have an appointment scheduled at {{time}}. Would you like to confirm?",
+  "confirmation_expiration_message": "Note: unconfirmed appointments will expire in 30 minutes",
+  "expired_message": "This appointment has expired",
+  "label_day": "Day",
+  "label_end": "End time",
+  "label_name": "Name",
+  "label_start": "Start time",
+  "patient_button": "I'm a patient",
+  "patient_schedule_message": "Here are the available time slots",
+  "patient_welcome_message": "Please select your provider below",
+  "provider_button": "I'm a provider",
+  "provider_message": "Please enter your availability below",
+  "reschedule_button": "Click here to reschedule",
+  "submit_availability_button": "Submit availability",
+  "welcome_message": "Welcome!"
+}
